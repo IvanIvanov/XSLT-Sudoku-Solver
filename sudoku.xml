@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="sudoku.xsl" ?>
+
+<sudoku xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="sudoku_schema.xsd">
+    <row>000700000</row> 
+    <row>004106305</row> 
+    <row>000089061</row> 
+    <row>000000607</row> 
+    <row>001090400</row> 
+    <row>308000000</row> 
+    <row>130870000</row> 
+    <row>207503900</row>
+    <row>000004000</row> 
+</sudoku>
+
