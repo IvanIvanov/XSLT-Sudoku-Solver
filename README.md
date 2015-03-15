@@ -6,5 +6,7 @@ The initial puzzle configuration is saved in an XML file (see sudoku.xml as an e
 
 The guts of the algorithm can be found in the sudoku.xsl file.
 
+![Sreenshot](/screenshot.png "Screenshot")
+
 Contact author at: 
 ivan.vladimirov.ivanov@gmail.com
